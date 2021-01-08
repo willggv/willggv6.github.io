@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Willian Velasco"
+  },
+  "text": {
+    "more": "",
+    "intro": "Mapa gerado por coleta de dados no Scopus na área de matemática em Dezembro de 2020. Com os termos: partial action and Hopf algebra; inverse semigroup, groupoid, groupoid algebra, étale groupoid, Mcalister triples, P-theorem, universal groupoid, partial action, inverse category, category action, ordered groupoid, groupoid action, algebroid.\n\n\n\n\n",
+    "title": "Panorama de Pesquisa"
+  },
+  "legend": {
+    "edgeLabel": "Coocorrência",
+    "colorLabel": "Por clusters ",
+    "nodeLabel": "Autores"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
